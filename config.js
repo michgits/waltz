@@ -14,7 +14,7 @@ module.exports = {
         },
         maxVol: 100,
         leaveOnEnd: true,
-        loopMessage: true,
+        loopMessage: false,
         spotifyBridge: true,
         defaultvolume: 75,
         discordPlayer: {
