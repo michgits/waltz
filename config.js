@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'MTAyMzg0Mzg1MjYwOTY1MDY5OA.GdKyU6.YJZkoxS_6xNckFvmYWcAPlgfsl1MNsD-t_zOG4',
+        token: 'X',
         playing: 'made by mich',
         global: true,
-        guild: '912646009815961622'
+        guild: 'X'
     },
 
     opt: {
