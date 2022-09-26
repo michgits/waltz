@@ -15,10 +15,10 @@ Open the configuration file located in the main folder `config.js`.
 ```js
 module.exports = {
     app: {
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        token: 'X',
+        playing: 'made by mich',
         global: true,
-        guild: 'xxx'
+        guild: 'X'
     },
 
     opt: {
@@ -29,7 +29,7 @@ module.exports = {
         },
         maxVol: 100,
         leaveOnEnd: true,
-        loopMessage: false,
+        loopMessage: true,
         spotifyBridge: true,
         defaultvolume: 75,
         discordPlayer: {}
