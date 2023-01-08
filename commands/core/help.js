@@ -11,7 +11,7 @@ module.exports = {
         const embed = new EmbedBuilder()
         .setColor('#CFD5EA')
         .setAuthor({ name: client.user.username, iconURL: client.user.displayAvatarURL({ size: 1024, dynamic: true }) })
-        .setDescription('this code comes from a github project [michgits/waltz](https://github.com/ZerioDev/Music-bot).')
+        .setDescription('this code comes from a github project [michgits/waltz](https://github.com/michgits/waltz).')
         .addFields([ { name: `enabled - ${commands.size}`, value: commands.map(x => `\`${x.name}\``).join(' | ') } ])
         .setTimestamp()
         .setFooter({ text: 'music comes first - made by michu', iconURL: inter.member.avatarURL({ dynamic: true })});
