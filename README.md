@@ -67,7 +67,7 @@ To use the project correctly you will need some tools.
 
 - [ ] lyrics command
 
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
+-  [ ] vote to skip command
 
 - [ ] history commnad
 
